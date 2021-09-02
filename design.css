@@ -1,0 +1,35 @@
+#block {
+	background-color:yellow;	
+	font-weight:bolder;
+	font-size:100px;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}
+#barholder {
+	background-color:red;	
+}
+#xpholder {
+	background-color:green;
+text-align:center;
+font-size:50px;	
+font-weight:bold;
+}
+
+#buying {
+	font-weight:bold;
+	font-size:50px;
+text-align:center;
+	background-color:blue;
+	
+}
+#buys {
+	font-weight:bold;
+	font-size:50px;
+text-align:center;
+	background-color:blue;
+	
+}
+
+
+
